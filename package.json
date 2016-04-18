@@ -2,7 +2,7 @@
   "name": "naver-translator",
   "version": "0.0.1",
   "description": "Naver tranlator for nodejs",
-  "main": "gulpfile.js",
+  "main": "./src/naver-translator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,11 +16,16 @@
     "nodejs",
     "api"
   ],
-  "author": "Hana Lee",
+  "author": { "name": "Hana Lee", "email": "i@leehana.co.kr", "url": "http://leehana.co.kr"},
   "license": "MIT",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/MIT"
+  }],
   "bugs": {
     "url": "https://github.com/Hana-Lee/naver-translator/issues"
   },
+  "engines": { "node": ">=0.12.0"},
   "homepage": "https://github.com/Hana-Lee/naver-translator#readme",
   "dependencies": {},
   "devDependencies": {
