@@ -39,7 +39,7 @@ config.codekit
 nbproject/private/
 build/
 nbbuild/
-dist/
+dist
 nbdist/
 nbactions.xml
 .nb-gradle/
