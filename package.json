@@ -1,0 +1,31 @@
+{
+  "name": "naver-translator",
+  "version": "0.0.1",
+  "description": "Naver tranlator for nodejs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hana-Lee/naver-translator.git"
+  },
+  "keywords": [
+    "naver",
+    "translator",
+    "nodejs",
+    "api"
+  ],
+  "author": "Hana Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hana-Lee/naver-translator/issues"
+  },
+  "homepage": "https://github.com/Hana-Lee/naver-translator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jslint": "^0.2.2",
+    "gulp-minify": "0.0.9"
+  }
+}
