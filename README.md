@@ -3,7 +3,7 @@
 
 * Build Status
 * [![Build Status](https://travis-ci.org/Hana-Lee/naver-translator.svg?branch=master)](https://travis-ci.org/Hana-Lee/naver-translator)
-* [![Build Status](https://semaphoreci.com/api/v1/voyaging/naver-translator/branches/master/badge.svg)](https://semaphoreci.com/voyaging/naver-translator)
+* [![Build Status](https://semaphoreci.com/api/v1/Hana-Lee/naver-translator/branches/master/badge.svg)](https://semaphoreci.com/voyaging/naver-translator)
 * [![npm version](https://badge.fury.io/js/naver-translator.svg)](https://badge.fury.io/js/naver-translator)
 * [![Downloads](https://img.shields.io/npm/dm/naver-translator.svg)](https://www.npmjs.com/package/naver-translator)
 
